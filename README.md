@@ -54,7 +54,7 @@ churn-predictor/
 
 ## 👤 Author
 
-**Jibran Shahid** — MS Data Science · University of Central Punjab
+**Jibran Shahid**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat)](https://jb00911.github.io/jibranshahid.github.io)
 [![Sales Dashboard](https://img.shields.io/badge/Sales_Dashboard-Live-FF4B4B?style=flat)](https://sales-dashboard-jb00911.streamlit.app/)
